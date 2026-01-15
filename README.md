@@ -254,7 +254,7 @@ Sau đó mở trình duyệt tại: `http://localhost:8501`
 
 ---
 
-## 📈 Kết quả
+## Kết quả
 
 | Model | Accuracy (Val) | Precision | Recall | F1-Score |
 |-------|---------------|-----------|--------|----------|
@@ -308,3 +308,4 @@ Web app cung cấp các tính năng:
 
 ---
 
+![1768411271017](image/README/1768411271017.png)![1768411282823](image/README/1768411282823.png)

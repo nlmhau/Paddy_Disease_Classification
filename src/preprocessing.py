@@ -136,7 +136,6 @@ def build_image_generators(
 
 
 def compute_class_weights(train_df: pd.DataFrame, class_indices: Dict[str, int]) -> Dict[int, float]:
-    """Tính `class_weights_dict` và map đúng với output neuron như notebook."""
 
     labels = train_df["label_vi"].values
     classes = np.unique(labels)
