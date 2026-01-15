@@ -51,6 +51,9 @@ outputs/
 *.jpg
 *.jpeg
 
+# Allow report PDFs
+!report/*.pdf
+
 # IDE
 .vscode/
 .idea/
